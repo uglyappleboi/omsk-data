@@ -1,0 +1,1 @@
+{"place": "Omsk, Russia", "origin": {"lat": 54.97889212190486, "lon": 73.367192616811}, "studsPerMeter": 0.2, "chunkMeters": 1200.0, "crs": "EPSG:32643", "grid": {"nx": 29, "ny": 56}, "gridOrigin_proj": [378147.2182111981, 6076438.107330536], "seed": 1337}
